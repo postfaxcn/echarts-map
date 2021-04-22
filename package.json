@@ -1,0 +1,32 @@
+{
+    "name": "echarts-map",
+    "version": "1.0.0",
+    "description": "地图图表",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/postfaxcn/echarts-map.git"
+    },
+    "dependencies": {
+        "echarts": "~3.0.1"
+    },
+    "devDependencies": {
+        "del": "^2.0.0",
+        "gulp": "^3.9.0",
+        "gulp-plumber": "^1.0.1",
+        "gulp-replace": "^0.5.4",
+        "jshint": "^2.8.0",
+        "run-sequence": "^1.1.5"
+    },
+    "keywords": [
+        "echarts",
+        "chart",
+        "charts",
+        "graph",
+        "graphs",
+        "webpack",
+        "canvas",
+        "svg",
+        "visualization",
+        "vml"
+    ]
+}
